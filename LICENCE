@@ -1,0 +1,11 @@
+
+---
+
+# INITIALISER LE DÉPÔT GIT
+
+Dans le dossier **racine du projet** :
+
+```bash
+git init
+git add .
+git commit -m "Initial release of myPew SecureCLI"

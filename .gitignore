@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.pyc
+
+# MFA / runtime
+mfa_qr.png
+mypew.log
+
+# User data
+.mypew/
+~/.mypew/
+
+# Virtual env
+venv/
+.env
