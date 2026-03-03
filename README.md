@@ -13,6 +13,6 @@ myPew is a security-oriented CLI tool for Linux systems that protects critical s
 ## Installation
 
 ```bash
-git clone https://github.com/<your-username>/myPew.git
+git clone https://github.com/SaidLaachir/myPew.git
 cd myPew
 pip install -r requirements.txt
